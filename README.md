@@ -7,7 +7,7 @@ Grocery and goods delivery service Instacart is looking to improve how to target
 
 DATA
 
-Opensource data from 2017 made available by Instacart here.
+Opensource data from 2017 made available by Instacart [here]([url](https://www.instacart.com/datasets/grocery-shopping-2017)).
 
 FINDINGS
 
